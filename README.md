@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ramish Hassan Riaz
 #### from Pakistan
-I have following skills and also have 1 years working in Magento 2 Theme Development and Creative Static Website Template.
+I have following skills and also have 1 years working in Magento 2 Theme Development and 2 Years of Creating Creative Static Website Template from Figma and Adobe UX.
 
 Skills: HTML5  / CSS 3 / SASS / JavaScript / Jquery / Magento 2 / React Js (Fundamentals)
 
