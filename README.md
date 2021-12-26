@@ -12,13 +12,7 @@ Skills: HTML5  / CSS 3 / SASS / JavaScript / Jquery / Magento 2 / React Js (Fund
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ramishscrapper)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramishscrapper)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramishscrapper&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ramishscrapper)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Ramishscrapper)  
 
