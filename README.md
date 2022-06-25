@@ -1,6 +1,5 @@
 <h1> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Ramish Hassan Riaz </h1>
-Pakistan, I have following skills and also have 2 years working in Magento 2 Theme Development and Creating Creative Static Website Template from Figma and Adobe UX.
-
+I utilize the online resources and make the creative and pixel perfect website.
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/Ramishscrapper)
