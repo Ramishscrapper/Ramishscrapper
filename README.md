@@ -36,6 +36,3 @@ Overall, I believe that my experience and skills make me a strong candidate for 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ramishscrapper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ramish_hassan_riaz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Ramishscrapper)
-
-![GitHub metrics](https://metrics.lecoq.io/Ramishscrapper)  
-
