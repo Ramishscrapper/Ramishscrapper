@@ -22,7 +22,7 @@ I utilize the online resources and make the creative and pixel perfect website.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-I am a front-end engineer with 3 years of industry experience. During this time, I have worked on several projects using Magento 2 and also built websites using PWA studio.
+I am a front-end engineer with 4 years of industry experience. During this time, I have worked on several projects using Magento 2 and also built websites using PWA studio.
 
 My experience is in these technologies has allowed me to develop a strong understanding of front-end development principles and best practices. I have experience with HTML, CSS, SASS, LESS, Tailwind CSS, Bootstrap, JavaScript, jQuery, React js, and other web development languages and tools.
 
